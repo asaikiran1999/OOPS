@@ -9,4 +9,4 @@ I will constantly try to make changes in  code with my experience.<h4>
 <h5><a href="https://github.com/asaikiran1999/OOPS/blob/main/2.variables_in_oops.ipynb">2.OOPS variables</a></h5>
 <h5><a href="https://github.com/asaikiran1999/OOPS/blob/main/3.Oops_methods.ipynb">3.OOPS methods</a></h5>
 <h5><a href="https://github.com/asaikiran1999/OOPS/blob/main/4_Inheritance.ipynb">4.Inheritance</a></h5>
-<h5><a href="https://github.com/asaikiran1999/OOPS/blob/main/5_duck_typing.ipynb">4.Polymorphism - Duck typing</a></h5>
+<h5><a href="https://github.com/asaikiran1999/OOPS/blob/main/5_duck_typing.ipynb">5.Polymorphism - Duck typing</a></h5>
