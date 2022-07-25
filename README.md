@@ -11,3 +11,4 @@ I will constantly try to make changes in  code with my experience.<h4>
 <h5><a href="https://github.com/asaikiran1999/OOPS/blob/main/4_Inheritance.ipynb">4.Inheritance</a></h5>
 <h5><a href="https://github.com/asaikiran1999/OOPS/blob/main/5_duck_typing.ipynb">5.Polymorphism - Duck typing</a></h5>
 <h5><a href="https://github.com/asaikiran1999/OOPS/blob/main/6.polymorphism_overloading_and_overiding.ipynb">6.Polymorphism - Overiding and overloading</a></h5>
+<h5><a href="https://github.com/asaikiran1999/OOPS/blob/main/7_Abstract_class_method.ipynb">7.Abstract Class and methods</a></h5>
